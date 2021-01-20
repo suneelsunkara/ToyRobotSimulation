@@ -76,18 +76,26 @@ build it. This application was developed Visual Studion 2015 Community.
 
 Clone this repo:
 
-git clone git@github.com:Julzerator/toy-robot-csharp.git
+git clone https://github.com/suneelsunkara/ToyRobotSimulation.git
 
-Open the ToyRobot.sln and build Release. The application will be here:
+Open the ToyRobot.sln and build Release. The Console application will be here:
 ../ToyRobot/bin/Release
 
 And you're ready to go!
 
-To Use:
+To Run the Console application:
 
-Create a .txt file with a series of commands on new lines, such as test.txt
+ Create a .txt file for  with a series of commands on new lines, such as test.txt
 Save this file in the same directory as the .exe
 In a cmd window, navigate to the directory and type in the following.
 
 >ToyRobot test.txt
+
+To Run the Web application:
+
+1. Deploy the application through Azure Devops pipeline into a AWS Elastic Beanstalk instance
+2. Login to AWS Console --> AWS Elastic Beanstalk --> Environments --> Copy the URL 
+3. Paste the url in the browser and browse to website
+4. Enter the Robot moves/commands as described above and click the test link
+5. The position of the toy robot will be at the Output area in the webpage
 
