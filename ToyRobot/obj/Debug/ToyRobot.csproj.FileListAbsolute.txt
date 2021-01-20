@@ -1,0 +1,7 @@
+D:\toy-robot-challenge\ToyRobot\bin\Debug\ToyRobot.exe.config
+D:\toy-robot-challenge\ToyRobot\bin\Debug\ToyRobot.exe
+D:\toy-robot-challenge\ToyRobot\bin\Debug\ToyRobot.pdb
+D:\toy-robot-challenge\ToyRobot\obj\Debug\ToyRobot.csproj.CoreCompileInputs.cache
+D:\toy-robot-challenge\ToyRobot\obj\Debug\ToyRobot.exe
+D:\toy-robot-challenge\ToyRobot\obj\Debug\ToyRobot.pdb
+D:\toy-robot-challenge\ToyRobot\obj\Debug\ToyRobot.csprojAssemblyReference.cache

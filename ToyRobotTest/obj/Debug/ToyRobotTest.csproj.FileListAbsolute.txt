@@ -1,0 +1,11 @@
+D:\toy-robot-challenge\ToyRobotTest\bin\Debug\BasicCommand.txt
+D:\toy-robot-challenge\ToyRobotTest\bin\Debug\ToyRobotTest.dll
+D:\toy-robot-challenge\ToyRobotTest\bin\Debug\ToyRobotTest.pdb
+D:\toy-robot-challenge\ToyRobotTest\bin\Debug\ToyRobot.exe
+D:\toy-robot-challenge\ToyRobotTest\bin\Debug\ToyRobot.pdb
+D:\toy-robot-challenge\ToyRobotTest\bin\Debug\ToyRobot.exe.config
+D:\toy-robot-challenge\ToyRobotTest\obj\Debug\ToyRobotTest.csprojAssemblyReference.cache
+D:\toy-robot-challenge\ToyRobotTest\obj\Debug\ToyRobotTest.csproj.CoreCompileInputs.cache
+D:\toy-robot-challenge\ToyRobotTest\obj\Debug\ToyRobotTest.csproj.CopyComplete
+D:\toy-robot-challenge\ToyRobotTest\obj\Debug\ToyRobotTest.dll
+D:\toy-robot-challenge\ToyRobotTest\obj\Debug\ToyRobotTest.pdb
