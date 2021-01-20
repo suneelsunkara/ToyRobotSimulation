@@ -76,7 +76,7 @@ Setup
 Because C# is a compiled language you will need to load this repo in Visual Studio and
 build it. This application was developed Visual Studion 2015 Community.
 
-Clone this repo:
+Clone this repo: from the master branch
 
 git clone https://github.com/suneelsunkara/ToyRobotSimulation.git
 
