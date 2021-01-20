@@ -24,13 +24,22 @@ namespace ToyRobotWeb
         protected global::System.Web.UI.UpdatePanel UpdatePanel;
 
         /// <summary>
-        /// FileUpload1 control.
+        /// InputLabel control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.FileUpload FileUpload1;
+        protected global::System.Web.UI.WebControls.Label InputLabel;
+
+        /// <summary>
+        /// InputCode1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox InputCode1;
 
         /// <summary>
         /// lbt_Go control.

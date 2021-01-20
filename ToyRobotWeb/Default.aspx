@@ -4,15 +4,22 @@
 
     <div class="jumbotron">
         <asp:UpdatePanel ID="UpdatePanel" runat="server">
-    <ContentTemplate>
-        <asp:FileUpload ID="FileUpload1" runat="server" OnClick="FileUpload1_Click"></asp:FileUpload>
-        <hr />
-        <asp:LinkButton ID="lbt_Go" runat="server" OnClick="lbt_Go_Click">Test</asp:LinkButton> 
-        <asp:Label ID="lbl_Output" runat="server">Output: </asp:Label>
-    </ContentTemplate>
-    <Triggers>
-        <asp:PostBackTrigger ControlID = "lbt_Go" />
-    </Triggers>
-</asp:UpdatePanel>
+            <ContentTemplate>
+                <div>
+                    <asp:Label ID="InputLabel" runat="server">Paste the Robot Movement sequence here</asp:Label>
+                </div>
+                <asp:TextBox ID="InputCode1" TextMode="MultiLine" Rows="10" runat="server"></asp:TextBox>
+                <div>
+                    <asp:LinkButton ID="lbt_Go" runat="server" OnClick="lbt_Go_Click">Click here</asp:LinkButton>
+                </div>
+                <hr />
+                <div>
+                    <asp:Label ID="lbl_Output" runat="server">Output: </asp:Label>
+                </div>
+            </ContentTemplate>
+            <Triggers>
+                <asp:PostBackTrigger ControlID="lbt_Go" />
+            </Triggers>
+        </asp:UpdatePanel>
     </div>
 </asp:Content>
